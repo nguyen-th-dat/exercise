@@ -1,12 +1,62 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Trang Chủ</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <a href="./web-design/hyperlink/index.html">hyperlink</a>
-    <a href="./web-design/baitap16/index.html">web-design</a>
+    <div class="container">
+        <h1>Trang Chủ</h1>
+        <p>Select the website you want to access:</p>
+        <div class="links">
+            <a href="web-design/hyperlink/index.html">hyperlink</a>
+            <a href="web-design/baitap16/index.html">web-design</a>
+        </div>
+    </div>
 </body>
+
 </html>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #282c36;
+        color: white;
+        text-align: center;
+    }
+
+    .container {
+        background: #1e1e2e;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    }
+
+    .links {
+        margin-top: 20px;
+    }
+
+    .links a {
+        display: block;
+        padding: 10px;
+        margin: 5px 0;
+        background: #3b3b58;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: 0.3s;
+    }
+
+    .links a:hover {
+        background: black;
+        color: white;
+    }
+</style>

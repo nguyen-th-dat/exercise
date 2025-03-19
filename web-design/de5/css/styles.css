@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+body {
+  background: url(../img/background.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 15vh;
+}
+
+.logo {
+  display: inline;
+  float: left;
+  width: 20%;
+  height: 15vh;
+}
+
+#logo {
+  width: auto;
+  height: 15vh;
+  float: left;
+  margin-left: 15%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  float: left;
+  width: 60%;
+  margin-top: 2%;
+  margin-left: 15%;
+  padding: 1% 0;
+}
+
+#nav {
+  width: 25%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+#nav a {
+  text-align: center;
+  text-decoration: none;
+  color: #24140d;
+  font-size: 120%;
+  font-weight: 400;
+  padding: 0 15% 1.5% 15%;
+}
+
+#nav a:hover {
+  color: white;
+  background-color: #24140d;
+  border-radius: 7px;
+}
+
+nav hr {
+  border: none;
+  height: 3px;
+  background-color: #24140d;
+  width: 65%;
+  margin-left: 30%;
+}
+
+
+main {
+  width: 100%;
+  height: 50vh;
+}
+
+.main{
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center; 
+}
+
+#slide {
+  height: 50vh;
+  width: 50%;
+  float: left;
+}
+
+#slide-img {
+  height: 100%;
+  width: auto;
+  float: right;
+}
+
+
+#content {
+  height: 50vh;
+  width: 50%;
+  float: left;
+  padding: 1% 10% 1% 1%;
+  
+}
+
+#content h2 {
+  font-size: 180%;
+  color: red;
+  text-align: left;
+  font-weight: 500;
+  margin-bottom: 1%;
+}
+
+#content h1 {
+  font-size: 300%;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 3%;
+}
+
+#content p {
+  font-size: 130%;
+  text-align: left;
+  font-weight: 400;
+  color: #c55856;
+  margin-bottom: 3%;
+}
+
+#content a {
+  text-decoration: none;
+  font-size: 140%;
+  font-weight: 400;
+
+  padding: 0 2% 1% 2%;
+  background-color: #24140d;
+  color: white;
+  border-radius: 7px;
+}
+
+#content a:hover {
+  border: 1px solid #24140d;
+  background: none;
+  color: #24140d;
+  border-radius: 10px;
+}
+
+footer {
+  width: 100%;
+  height: 30vh;
+}
+
+.container {
+  width: 100%;
+  height: 28vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#cake {
+  height: 25vh;
+  width: auto;
+}
+
+#cake img {
+  height: 25vh;
+  width: auto;
+}
+
+#cake p {
+  width: 100%;
+  height: 3vh;
+  text-align: center;
+  font-size: 125%;
+  font-weight: 400;
+  color: #24140d;
+}
+
+footer h1 {
+  width: 100%;
+  height: 2vh;
+  text-align: center;
+  color: #24140d;
+  font-weight: 900;
+  font-size: 200%;
+}
+

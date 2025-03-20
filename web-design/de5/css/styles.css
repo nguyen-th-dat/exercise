@@ -5,6 +5,7 @@
   text-align: justify;
 }
 
+
 body {
   background: url(../img/background.png) no-repeat;
   background-size: cover;
@@ -42,14 +43,14 @@ nav {
   padding: 1% 0;
 }
 
-#nav {
+.nav {
   width: 25%;
   height: auto;
   display: flex;
   justify-content: center;
 }
 
-#nav a {
+.nav a {
   text-align: center;
   text-decoration: none;
   color: #24140d;
@@ -58,7 +59,7 @@ nav {
   padding: 0 15% 1.5% 15%;
 }
 
-#nav a:hover {
+.nav a:hover {
   color: white;
   background-color: #24140d;
   border-radius: 7px;
@@ -66,7 +67,7 @@ nav {
 
 nav hr {
   border: none;
-  height: 3px;
+  height: 2px;
   background-color: #24140d;
   width: 65%;
   margin-left: 30%;
@@ -78,27 +79,27 @@ main {
   height: 50vh;
 }
 
-.main{
+#content{
   width: 100%;
   height: 50vh;
   display: flex;
   justify-content: center; 
 }
 
-#slide {
+.slide {
   height: 50vh;
   width: 50%;
   float: left;
 }
 
-#slide-img {
-  height: 100%;
+.slide-img {
+  height: 50vh;
   width: auto;
   float: right;
 }
 
 
-#content {
+.content {
   height: 50vh;
   width: 50%;
   float: left;
@@ -106,7 +107,7 @@ main {
   
 }
 
-#content h2 {
+.content h2 {
   font-size: 180%;
   color: red;
   text-align: left;
@@ -114,14 +115,14 @@ main {
   margin-bottom: 1%;
 }
 
-#content h1 {
+.content h1 {
   font-size: 300%;
   text-align: left;
   font-weight: 600;
   margin-bottom: 3%;
 }
 
-#content p {
+.content p {
   font-size: 130%;
   text-align: left;
   font-weight: 400;
@@ -129,7 +130,7 @@ main {
   margin-bottom: 3%;
 }
 
-#content a {
+.content a {
   text-decoration: none;
   font-size: 140%;
   font-weight: 400;
@@ -140,7 +141,7 @@ main {
   border-radius: 7px;
 }
 
-#content a:hover {
+.content a:hover {
   border: 1px solid #24140d;
   background: none;
   color: #24140d;
@@ -152,24 +153,25 @@ footer {
   height: 30vh;
 }
 
-.container {
+#container {
   width: 100%;
   height: 28vh;
   display: flex;
   justify-content: space-evenly;
 }
 
-#cake {
+.cake {
+  display: block;
   height: 25vh;
   width: auto;
 }
 
-#cake img {
+.cake img {
   height: 25vh;
   width: auto;
 }
 
-#cake p {
+.cake p {
   width: 100%;
   height: 3vh;
   text-align: center;

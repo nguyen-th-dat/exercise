@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: url(../img/background.png);
+  /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+#con {
+  width: 70%;
+  height: 90vh;
+  margin: 1% auto;
+  border: solid 8px white;
+  background: white;
+}
+
+#container {
+  background: lightgoldenrodyellow;
+  width: 100%;
+  height: 100%;
+  padding: 4%;
+  border-radius: 8px ;
+  box-shadow: 0 0 2px gray inset;
+}
+
+#container nav {
+  width: 100%;
+  height: 10%;
+  padding-top: 0.5%;
+}
+
+#container nav h1 {
+  width: 15%;
+  height: auto;
+  float: left;
+  padding-top: 1%;
+}
+
+#navbar {
+  width: 40%;
+  float: left;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 1%;
+}
+
+#navbar a {
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 1% 5%;
+  color: black;
+  font-weight: 400;
+}
+
+#navbar a:hover {
+  color: red;
+  background: rgb(82, 226, 82);
+  font-weight: 600;
+}
+
+#find {
+  width: 45%;
+  float: left;
+}
+
+.search-input {
+  padding: 1.5% 45% 1.5% 1% ;
+  border-radius: 10px;
+  border: solid 1px black;
+  box-shadow: 3px 3px 0 black;
+}
+
+.search-button {
+  background: greenyellow;
+  padding: 1% 3%;
+  border-radius: 10px;
+  border: solid 1px black;
+  box-shadow: 3px 3px 0 black;
+  margin-left: 1%;
+}
+
+#container main {
+  width: 100%;
+  height: 45%;
+}
+
+#container main h1 {
+  color: rgb(15, 90, 46);
+  float: left;
+  width: 55%;
+  height: 80%;
+  padding: 1% 0;
+  text-align: left;
+  font-size: 300%;
+}
+
+#container main p {
+  float: left;
+  width: 45%;
+  height: 80%;
+  padding: 3%;
+  font-size: 100%;
+}
+
+#container main h2 {
+  float: left;
+  width: 100%;
+  height: 20%;
+  font-size: 100%;
+  text-align: left;
+  padding-top: 1%;
+}
+
+#container footer {
+  width: 100%;
+  height: 45%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#container footer div {
+  width: 30%;
+  height: auto;
+}
+
+#container footer div img {
+  width: 100%;
+  height: auto;
+  border: solid 2px green;
+  border-radius: 10px;
+  margin-bottom: 2%;
+}
+
+#container footer div p {
+  font-weight: 600;
+  float: left;
+}
+
+#container footer div button {
+  float: right;
+  background: rgb(17, 105, 76);
+  color: white;
+  padding: 0.5% 2.5%;
+  border-radius: 9px;
+  font-size: 105%;
+}
+
+

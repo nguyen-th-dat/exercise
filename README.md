@@ -6,3 +6,4 @@
 ## *Đề 19*: [Click to go to page](https://nguyen-th-dat.github.io/exercise/web-design/de19/)
 ## *Đề 21*: [Click to go to page](https://nguyen-th-dat.github.io/exercise/web-design/de21/)
 ## *Kiểm tra Giữa kì*: [Click to go to page](https://nguyen-th-dat.github.io/exercise/web-design/kiemtragiuaki/) 
+## *Kiểm tra Giữa kì - Bổ sung*: [Click to go to page](https://nguyen-th-dat.github.io/exercise/web-design/kiemtragiuaki-bosung/) 

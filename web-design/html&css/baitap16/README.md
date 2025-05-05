@@ -1,1 +1,0 @@
-## *Bài Tập 16*: [Click to go to page](https://nguyen-th-dat.github.io/exercise/web-design/html&css/baitap16/)

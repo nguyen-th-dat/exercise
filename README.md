@@ -36,7 +36,7 @@ web-design-assignments/
    ```bash
    git clone https://github.com/nguyen-th-dat/web-design-assignments.git
 
-3. Xem trực tiếp qua GitHub Pages nếu không muốn clone:
+3. Xem trực tiếp tại:
 https://nguyen-th-dat.github.io/web-design-assignments/web/
 
 ## 📝 Ghi chú

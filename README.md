@@ -35,7 +35,7 @@ web-design-assignments/
 2. Clone repository về máy:
    ```bash
    git clone https://github.com/nguyen-th-dat/web-design-assignments.git
-
+   ```
 3. Xem trực tiếp tại:
 https://nguyen-th-dat.github.io/web-design-assignments/web/
 

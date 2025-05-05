@@ -17,15 +17,12 @@ Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem
 
 ---
 
-## 🚀 Cách sử dụng
+## 🚀 Cách tải mã nguồn
 
-1. **Tải mã nguồn:**  
+1. **Tải trực tiếp:**  
    Nhấn nút **Code > Download ZIP** ở góc trên bên phải trên trang GitHub.
 
-2. Clone repository về máy:
+2. **Clone repository về máy:**
    ```bash
    git clone https://github.com/nguyen-th-dat/web-design-assignments.git
    ```
-3. Xem trực tiếp tại:
-https://nguyen-th-dat.github.io/web-design-assignments/web/
-

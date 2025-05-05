@@ -1,0 +1,58 @@
+/* Thêm font JetBrains Mono */
+@font-face {
+  font-family: "MyFont1";
+  src: url("../fonts/JetBrainsMono/JetBrainsMono[wght].ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyFont1";
+  src: url("../fonts/JetBrainsMono/JetBrainsMono-Italic[wght].ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MyFont2";
+  src: url("../fonts/FiraCode/FiraCode-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  font-family: MyFont1;
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+  height: 5vh;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 5px 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}

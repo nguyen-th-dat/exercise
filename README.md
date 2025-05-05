@@ -17,7 +17,7 @@ Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem
 
 ---
 
-## Tải Soucre code
+## Tải mã nguồn
 
 1. **Tải trực tiếp:**  
    Nhấn nút **Code > Download ZIP** ở góc trên bên phải trên trang GitHub.

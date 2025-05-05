@@ -11,13 +11,13 @@ Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem
 
 ---
 
-## 🔗 Trang chủ (GitHub Pages)
+## 🔗 Trang chủ
 
 👉 [Truy cập trang chủ tại đây](https://nguyen-th-dat.github.io/web-design-assignments/web/)
 
 ---
 
-## 🚀 Cách tải mã nguồn
+## Tải Soucre code
 
 1. **Tải trực tiếp:**  
    Nhấn nút **Code > Download ZIP** ở góc trên bên phải trên trang GitHub.

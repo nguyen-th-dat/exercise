@@ -29,7 +29,7 @@ web-design-assignments/
 
 ## 🚀 Cách sử dụng
 
-1. **Tải mã nguồn trực tiếp:**  
+1. **Tải mã nguồn:**  
    Nhấn nút **Code > Download ZIP** ở góc trên bên phải trên trang GitHub.
 
 2. Clone repository về máy:

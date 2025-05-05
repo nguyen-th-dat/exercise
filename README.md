@@ -9,13 +9,11 @@ Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem
 * Các bài tập được viết **thủ công**, nhằm luyện tập khả năng thiết kế giao diện cơ bản.
 * Các trang web được tối ưu cho **màn hình máy tính**, nên truy cập bằng PC để tránh lỗi hiển thị.
 
----
 
 ## 🔗 Trang chủ
 
 👉 [Truy cập trang chủ tại đây](https://nguyen-th-dat.github.io/web-design-assignments/web/)
 
----
 
 ## Tải mã nguồn
 

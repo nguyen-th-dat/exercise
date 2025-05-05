@@ -29,9 +29,49 @@
   text-align: justify;
 }
 
-body {
-  font-family: Arial, sans-serif;
+header {
+  width: 100%;
 }
+
+main {
+  margin: 3%;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+caption {
+  caption-side: top;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 
 footer {

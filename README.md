@@ -4,6 +4,7 @@
 
 Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem trực tiếp các bài tập trên trình duyệt.
 
+
 ## 📝 Ghi chú
 
 * Các bài tập được viết **thủ công**, nhằm luyện tập khả năng thiết kế giao diện cơ bản.

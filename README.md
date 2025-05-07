@@ -2,7 +2,7 @@
 
 Đây là repository dùng để lưu trữ và chạy các bài tập thực hành môn **Thiết kế Web**, bao gồm HTML, CSS, JavaScript, jQuery và Bootstrap.
 
-Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem trực tiếp các bài tập trên trình duyệt.
+Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem trực tiếp, các bài tập trên trình duyệt, thử triển khai các bài tập này như trên một sever.
 
 
 ## 📝 Ghi chú

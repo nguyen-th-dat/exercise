@@ -13,7 +13,7 @@ Trang web được triển khai thông qua **GitHub Pages** để dễ dàng xem
 
 ## 🔗 Trang chủ
 
-👉 [Truy cập trang chủ tại đây](https://nguyen-th-dat.github.io/web-design-assignments/web/)
+👉 [Truy cập trang chủ tại đây](https://nguyen-th-dat.github.io/web-design-assignments/)
 
 
 ## Tải mã nguồn

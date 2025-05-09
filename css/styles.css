@@ -72,3 +72,9 @@ table a:hover {
   text-decoration: underline;
 }
 
+footer {
+  font-family: MyFont1;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 1.2em;
+}
